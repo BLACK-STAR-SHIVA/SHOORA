@@ -2,6 +2,7 @@
 
 Open Google Colab 
 Download the Mistral Model and upload on Drive on same account from : https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF/tree/main
+
 You can Load any Pdf related to the Field
 
 ## Loading the Google Drive 
