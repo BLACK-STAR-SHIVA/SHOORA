@@ -1,9 +1,10 @@
 # SHOORA
 
-Open Google Colab 
-Download the Mistral Model and upload on Drive on same account from : https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF/tree/main
+--Open Google Colab 
 
-You can Load any Pdf related to the Field
+--Download the Mistral Model and upload on Drive on same account from : https://huggingface.co/MaziyarPanahi/BioMistral-7B-GGUF/tree/main
+
+--You can Load any Pdf related to the Field(For Using Rag or Finetuning)
 
 ## Loading the Google Drive 
 from google.colab import drive
